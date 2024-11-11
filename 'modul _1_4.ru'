@@ -1,0 +1,13 @@
+my_string = input('Введите любое слово : ')
+print (len(my_string))
+# подсчитывает колличество символов
+print (my_string.upper())
+# переводим все в верхний регистр
+print (my_string.lower())
+# переводим все в нижний регистр
+print (my_string.replace( ' ',""))
+#убираем пробелы
+print (my_string[0])
+# веводим первый символ строки
+print (my_string[-1])
+# выводим последний символ строки
